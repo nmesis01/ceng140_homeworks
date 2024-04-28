@@ -1,0 +1,2 @@
+<p>To use tester compile the1.c in unix environment and compile and execute tester.c without altering file structure</p>
+<p>If you want to add or remove some test cases please execute "ls test-case > test-cases.txt" after adding or removing files</p>
